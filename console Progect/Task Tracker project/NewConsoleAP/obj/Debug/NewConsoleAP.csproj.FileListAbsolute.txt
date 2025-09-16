@@ -1,0 +1,8 @@
+C:\Users\MF\Desktop\test\NewConsoleAP\bin\Debug\NewConsoleAP.exe.config
+C:\Users\MF\Desktop\test\NewConsoleAP\bin\Debug\NewConsoleAP.exe
+C:\Users\MF\Desktop\test\NewConsoleAP\bin\Debug\NewConsoleAP.pdb
+C:\Users\MF\Desktop\test\NewConsoleAP\obj\Debug\NewConsoleAP.csproj.AssemblyReference.cache
+C:\Users\MF\Desktop\test\NewConsoleAP\obj\Debug\NewConsoleAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\MF\Desktop\test\NewConsoleAP\obj\Debug\NewConsoleAP.csproj.CoreCompileInputs.cache
+C:\Users\MF\Desktop\test\NewConsoleAP\obj\Debug\NewConsoleAP.exe
+C:\Users\MF\Desktop\test\NewConsoleAP\obj\Debug\NewConsoleAP.pdb
